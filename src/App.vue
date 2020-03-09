@@ -8,7 +8,7 @@
       
       <v-btn flat>
           <router-link class='router-txt' :to="'/Home'">
-          Yushi Sato
+          Yuta Kageyama
           </router-link>      
       </v-btn>
 

@@ -6,9 +6,9 @@
 			</v-flex>
 
 			<v-flex xs12 mb-5>
-				<h1 class="display-2 font-weight-bold mb-3">Welcome to Yushi's page!</h1>
+				<h1 class="display-2 font-weight-bold mb-3">Welcome to Yuta's page!</h1>
 				<p class="subheading font-weight-regular">
-					佐藤優志のホームページです
+					影山雄太のホームページです
 				</p>
 			</v-flex>	
 
@@ -43,15 +43,11 @@ export default class Home extends Vue {
 	private link = [
 		{
 			text: 'github',
-			href: 'https://github.com/youseegreen',
+			href: 'https://github.com/kagechan5',
 		},
 		{
 			text: '研究室',
 			href: 'https://www.sens.sys.es.osaka-u.ac.jp/',
-		},
-		{
-			text: '研究ページ',
-			href: 'https://www.extendedhand.net/',
 		},
 	];
 }
