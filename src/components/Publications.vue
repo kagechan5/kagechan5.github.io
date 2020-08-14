@@ -5,6 +5,17 @@
         <h1 class="display-1 font-weight-bold mb-5">Publications</h1>
       </v-flex>
 
+      <!-- 論文誌 -->    
+      <v-flex xs12 mb-5>
+      <h1 class="display-0 mb-2">論文誌</h1>
+      <v-divider class="mb-3"></v-divider>
+      <ol>
+        <li class="headline mb-2">
+          <b>Yuta Kageyama</b>, Mariko Isogawa, Daisuke Iwai, Kosuke Sato "ProDebNet: projector deblurring using a convolutional neural network"，Optics Express, Vol. 28, No. 14, pp. 20391-20403, 2020
+        </li>     
+      </ol>
+      </v-flex>
+
       <!-- 国際会議 -->    
       <v-flex xs12 mb-5>
       <h1 class="display-0 mb-2">国際会議</h1>
@@ -22,14 +33,18 @@
       <v-divider class="mb-3"></v-divider>
      <ol>
         <li class="headline mb-2">
-          <b>影山雄太</b>，五十川麻理子，岩井大輔，佐藤宏介，"敵対的生成ネットワークを用いた映像投影時に生じるブラー補償"，第63回システム制御情報学会研究発表講演会講演論文集(SCI'19)，1438-1445，2019.5．
+          <b>影山雄太</b>，五十川麻理子，岩井大輔，佐藤宏介，"敵対的生成ネットワークを用いた映像投影時に生じるブラー補償"，第63回システム制御情報学会研究発表講演会講演論文集 (SCI'19)，1438-1445，2019.5
         </li> 
         <li class="headline mb-2">
-          <b>影山雄太</b>，五十川麻理子，岩井大輔，佐藤宏介，"敵対的生成ネットワークを用いた投影型複合現実感のための実時間ボケ補償"，第22回　画像の認識・理解シンポジウム(MIRU2019)
+          <b>影山雄太</b>，五十川麻理子，岩井大輔，佐藤宏介，"敵対的生成ネットワークを用いた投影型複合現実感のための実時間ボケ補償"，第22回　画像の認識・理解シンポジウム (MIRU2019)
         </li> 
         <li class="headline mb-2">
-          岩井大輔，日浦慎作，宮崎大輔，米原枚子，伊藤勇太，松倉悠，Parinya Punpongsanon，<b>影山雄太</b>，"超多自由度照明による実物体の質感表現編集技術"，第8回　多元質感知　領域班会議
+          岩井大輔，日浦慎作，宮崎大輔，米原枚子，伊藤勇太，松倉悠，Parinya Punpongsanon，<b>影山雄太</b>，"超多自由度照明による実物体の質感表現編集技術"，第8回多元質感知 領域班会議
         </li> 
+        <li class="headline mb-2">
+          <b>影山雄太</b>，五十川麻理子，岩井大輔，佐藤宏介，"ProDebNet: 畳み込みニューラルネットワークによる投影ボケ補償"，第23回　画像の認識・理解シンポジウム (MIRU2020)
+        </li> 
+        
       </ol>
       </v-flex>
      
@@ -45,7 +60,7 @@
           SCI学生発表賞 (<b>佐藤優志</b>，田辺育暉，森田耕平，プンポンサノン パリンヤ，松倉悠，岩井大輔，佐藤宏介，"投影バーチャルハンドの疑似触覚フィードバックによる接触感呈示") (2019.5).
         </li> 
       </ol>
-      </v-flex> --> -->
+      </v-flex> -->
 
       <!-- その他・Web報道 -->    
       <!-- <v-flex xs12 mb-5>

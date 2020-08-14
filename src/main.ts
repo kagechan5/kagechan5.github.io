@@ -8,7 +8,7 @@ import Router from 'vue-router';
 import Home from './components/Home.vue';
 import Profile from './components/Profile.vue';
 import Publications from './components/Publications.vue';
-
+import Projects from './components/Projects.vue';
 
 library.add(fas);
 Vue.component('font-awesome-icon', FontAwesomeIcon);
@@ -35,6 +35,11 @@ const Routes = [
     path: '/Publications',
     name: 'Publications',
     component: Publications,
+  },
+  {
+    path: '/Projects',
+    name: 'Projects',
+    component: Projects,
   },
 ];
 

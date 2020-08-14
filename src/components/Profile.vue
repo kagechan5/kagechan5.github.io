@@ -17,7 +17,7 @@
 				<h1 class="headline mb-5">大阪大学 大学院基礎工学研究科 システム創成学専攻 システム科学領域 <a href="https://www.sens.sys.es.osaka-u.ac.jp/" target="_blank">佐藤研究室</a></h1>
 				<h1 class="display-1 font-weight-bold mb-2">研究興味</h1>
 				<v-divider class="mb-3"></v-divider>
-				<h1 class="headline mb-5">DL , HCI（ヒューマン-コンピュータインタラクション , VR/AR/MR</h1>
+				<h1 class="headline mb-5">DL , HCI（ヒューマン-コンピュータインタラクション) , VR/AR/MR</h1>
 				<h1 class="display-1 font-weight-bold mb-2">学歴</h1>
 				<v-divider class="mb-3"></v-divider>
 				<h1 class="headline mb-5">2019年3月　大阪大学基礎工学部システム科学科 卒業</h1>

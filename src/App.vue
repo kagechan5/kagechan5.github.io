@@ -92,6 +92,7 @@ export default {
          // { title: 'Home', icon: 'home' },
           { title: 'Profile', icon: 'address-card' },
           { title: 'Publications', icon: 'book' },
+          {title: 'Projects', icon: 'search' },
         ],
       };
     },
