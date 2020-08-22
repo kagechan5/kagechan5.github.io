@@ -20,7 +20,7 @@
       <strong>Publications</strong>
       <ul>
         
-      <li>Yuta Kageyama, Mariko Isogawaω, Daisuke Iwai, Kosuke Sato "ProDebNet: projector deblurring using a convolutional neural network"，Optics Express, Vol. 28, No. 14, pp. 20391-20403, 2020 <a href="https://www.osapublishing.org/oe/abstract.cfm?uri=oe-28-14-20391" target ="_blank"> [PDF (2.9MB)]</a></li>
+      <li>Yuta Kageyama, Mariko Isogawa, Daisuke Iwai, Kosuke Sato "ProDebNet: projector deblurring using a convolutional neural network"，Optics Express, Vol. 28, No. 14, pp. 20391-20403, 2020 <a href="https://www.osapublishing.org/oe/abstract.cfm?uri=oe-28-14-20391" target ="_blank"> [PDF (2.9MB)]</a></li>
       </ul>
     <br>
     <strong>Bibtex</strong>
