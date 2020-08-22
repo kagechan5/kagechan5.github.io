@@ -21,10 +21,12 @@
 					<h2 class="headline font-weight-bold mb-1">{{item.title}}</h2>
 					<p class="subtitle-1 mb-3">{{item.publication}}</p>
 					<p class="body-1">{{item.abstract}}</p>
-					&gt;&gt;<a :href="item.href"
+					<!-- &gt;&gt;<a :href="item.href"
 						class="subheading mx-3"
 						target="_blank"
-					>{{item.more}}</a>
+					>{{item.more}}</a> -->
+					<p><router-link class='subheading mx-3' :to="'/Projects'+item.href">&gt;&gt;{{item.more}}</router-link></p>
+					
 				</v-flex>
 			</v-layout>
 			</v-card>
