@@ -8,7 +8,7 @@
             Projection blur can occur in practical use cases that have non-planar and/or multi-projection display surfaces with various scattering characteristics because the surface often causes defocus and subsurface scattering. To address this issue, we propose ProDebNet, an end-to-end real-time projection deblurring network that synthesizes a projection image to minimize projection blur. The proposed method generates a projection image without explicitly estimating any geometry or scattering characteristics of the projection screen, which makes real-time processing possible. 
             <br>
             &nbsp;&nbsp;The experimental result is shown in Fig.1 and Fig.2.
-            In this projection setup (Fig. 1), due to the defocus, the projected result without compensation become strongly blurry (Fig. 2(b)) when we project a target image (Fig. 2(a)).
+            In this projection setup (Fig. 1), due to the defocus, the projected result without compensation becomes strongly blurry (Fig. 2(b)) when we project a target image (Fig. 2(a)).
             Using the target image and the initial projected result, ProDebNet generates the compensation image (Fig.2 (c)), and when we project the compensation image, the projected result is deblurred (Fig2. (d)).
         
         </p>
