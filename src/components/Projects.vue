@@ -4,7 +4,7 @@
 
 		<v-layout>
 			<v-flex mt-3 mb-5>
-				<h1 class="display-1">プロジェクト</h1>
+				<h1 class="display-1">PROJECTS</h1>
 			</v-flex>
 		</v-layout>
 
@@ -21,6 +21,10 @@
 					<h2 class="headline font-weight-bold mb-1">{{item.title}}</h2>
 					<p class="subtitle-1 mb-3">{{item.publication}}</p>
 					<p class="body-1">{{item.abstract}}</p>
+					&gt;&gt;<a :href="item.href"
+						class="subheading mx-3"
+						target="_blank"
+					>{{item.more}}</a>
 				</v-flex>
 			</v-layout>
 			</v-card>

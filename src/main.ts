@@ -9,6 +9,7 @@ import Home from './components/Home.vue';
 import Profile from './components/Profile.vue';
 import Publications from './components/Publications.vue';
 import Projects from './components/Projects.vue';
+import ProDebNet from './components/Projects_components/ProDebNet.vue';
 
 library.add(fas);
 Vue.component('font-awesome-icon', FontAwesomeIcon);
@@ -41,6 +42,11 @@ const Routes = [
     name: 'Projects',
     component: Projects,
   },
+  {
+    path: '/Projects<ProDebNet>',
+    name: 'ProDebNet',
+    component: ProDebNet,
+  } 
 ];
 
 const router = new Router({
