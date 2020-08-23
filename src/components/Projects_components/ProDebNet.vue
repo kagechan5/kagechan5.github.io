@@ -9,7 +9,7 @@
             <br>
             &nbsp;&nbsp;The experimental result is shown in Fig.1 and Fig.2.
             In this projection setup (Fig. 1), due to the defocus, the projected result without compensation becomes strongly blurry (Fig. 2(b)) when we project a target image (Fig. 2(a)).
-            Using the target image and the initial projected result, ProDebNet generates the compensation image (Fig.2 (c)), and when we project the compensation image, the projected result is deblurred (Fig2. (d)).
+            Using the target image and the initial projected result, ProDebNet generates the compensation image (Fig.2(c)), and the projected result is deblurred (Fig2.(d)) when we project the compensation image.
         
         </p>
 
