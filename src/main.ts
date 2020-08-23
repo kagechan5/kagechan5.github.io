@@ -51,7 +51,7 @@ const Routes = [
 
 const router = new Router({
   routes: Routes,
-  mode: 'history',
+  mode: 'hash',
   linkActiveClass: 'active',
 });
 
